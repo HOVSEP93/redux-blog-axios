@@ -1,5 +1,16 @@
 # Getting Started with Create React App
 
+
+This my finished redux-blog-axios
+ web app based on A Modern React with Redux course by by Stephen Grider
+Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!
+UDEMY:https://www.udemy.com/course/react-redux/
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
